@@ -1,0 +1,82 @@
+[
+  {
+    "id": "barbershop_male",
+    "name": "Barbershop (Men)",
+    "icon": "content_cut",
+    "description": "Traditional men's grooming and haircuts",
+    "targetGender": "male",
+    "suggestedCategories": ["Hair Services", "Shaving", "Beard Grooming"]
+  },
+  {
+    "id": "hair_salon_female",
+    "name": "Hair Salon (Women)",
+    "icon": "content_cut",
+    "description": "Full-service women's hair care and styling",
+    "targetGender": "female",
+    "suggestedCategories": ["Hair Services", "Hair Coloring", "Treatments"]
+  },
+  {
+    "id": "nail_spa",
+    "name": "Nail Spa",
+    "icon": "spa",
+    "description": "Manicure, pedicure, and nail art services",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Nail Care"]
+  },
+  {
+    "id": "spa_massage",
+    "name": "Spa & Massage",
+    "icon": "spa",
+    "description": "Relaxation, massage, and wellness services",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Massage Therapy", "Skincare & Facials"]
+  },
+  {
+    "id": "beauty_studio",
+    "name": "Beauty Studio",
+    "icon": "face_retouching_natural",
+    "description": "Makeup, lashes, and beauty treatments",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Makeup & Beauty", "Skincare & Facials"]
+  },
+  {
+    "id": "bridal_services",
+    "name": "Bridal Services",
+    "icon": "favorite",
+    "description": "Wedding hair, makeup, and special occasion styling",
+    "targetGender": "female",
+    "suggestedCategories": ["Hair Services", "Makeup & Beauty"]
+  },
+  {
+    "id": "unisex_salon",
+    "name": "Unisex Salon",
+    "icon": "wc",
+    "description": "Services for all genders",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Hair Services", "Nail Care", "Makeup & Beauty"]
+  },
+  {
+    "id": "skincare_clinic",
+    "name": "Skincare Clinic",
+    "icon": "face",
+    "description": "Professional skincare and facial treatments",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Skincare & Facials"]
+  },
+  {
+    "id": "hair_removal",
+    "name": "Hair Removal Specialist",
+    "icon": "remove_circle_outline",
+    "description": "Waxing, threading, and hair removal services",
+    "targetGender": "unisex",
+    "suggestedCategories": ["Hair Removal"]
+  },
+  {
+    "id": "other",
+    "name": "Other",
+    "icon": "more_horiz",
+    "description": "Specify your custom business type",
+    "targetGender": "unisex",
+    "suggestedCategories": []
+  }
+]

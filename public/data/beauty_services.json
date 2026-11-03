@@ -1,0 +1,263 @@
+[
+  {
+    "category": "Hair Styling",
+    "icon": "scissors",
+    "services": [
+      {"name": "Women's Haircut & Style", "description": "Includes wash, precision cut, and professional blow-dry finish.", "defaultDuration": 60, "defaultPrice": 25000},
+      {"name": "Men's Haircut", "description": "Classic men's haircut with styling and optional razor finish.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Kid's Haircut", "description": "Gentle and patient haircut for children under 12.", "defaultDuration": 25, "defaultPrice": 10000},
+      {"name": "Bang/Fringe Trim", "description": "Quick trim to maintain your bangs between cuts.", "defaultDuration": 15, "defaultPrice": 5000},
+      {"name": "Blowout / Blow-Dry", "description": "Professional wash and blow-dry styling.", "defaultDuration": 45, "defaultPrice": 20000},
+      {"name": "Updo / Special Occasion Style", "description": "Elegant styling for weddings, proms, or special events.", "defaultDuration": 60, "defaultPrice": 40000},
+      {"name": "Hair Straightening", "description": "Temporary straightening with flat iron.", "defaultDuration": 45, "defaultPrice": 25000},
+      {"name": "Curls / Waves Styling", "description": "Create beautiful curls or beach waves.", "defaultDuration": 45, "defaultPrice": 25000}
+    ]
+  },
+  {
+    "category": "Hair Coloring",
+    "icon": "paintbrush",
+    "services": [
+      {"name": "Full Head Color", "description": "Single-process all-over color application.", "defaultDuration": 90, "defaultPrice": 50000},
+      {"name": "Root Touch-Up", "description": "Color application to cover regrowth only.", "defaultDuration": 60, "defaultPrice": 35000},
+      {"name": "Highlights (Partial)", "description": "Foil highlights on top and sides only.", "defaultDuration": 90, "defaultPrice": 60000},
+      {"name": "Highlights (Full Head)", "description": "Full foil highlights throughout.", "defaultDuration": 120, "defaultPrice": 80000},
+      {"name": "Lowlights", "description": "Add depth and dimension with darker tones.", "defaultDuration": 90, "defaultPrice": 55000},
+      {"name": "Balayage", "description": "Hand-painted highlights for a natural sun-kissed look.", "defaultDuration": 120, "defaultPrice": 90000},
+      {"name": "Ombré", "description": "Gradual color transition from dark to light.", "defaultDuration": 120, "defaultPrice": 85000},
+      {"name": "Color Correction", "description": "Fix previous color mishaps. Consultation required.", "defaultDuration": 180, "defaultPrice": 150000},
+      {"name": "Toner / Gloss", "description": "Enhance shine and tone between color services.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Fashion Colors", "description": "Vibrant, non-natural colors (pink, blue, etc.).", "defaultDuration": 150, "defaultPrice": 100000}
+    ]
+  },
+  {
+    "category": "Hair Treatments",
+    "icon": "sparkles",
+    "services": [
+      {"name": "Deep Conditioning Treatment", "description": "Intensive moisture restoration for dry, damaged hair.", "defaultDuration": 30, "defaultPrice": 20000},
+      {"name": "Keratin Treatment", "description": "Smoothing treatment to eliminate frizz for up to 3 months.", "defaultDuration": 180, "defaultPrice": 150000},
+      {"name": "Brazilian Blowout", "description": "Smoothing treatment for frizz-free, manageable hair.", "defaultDuration": 120, "defaultPrice": 120000},
+      {"name": "Olaplex Treatment", "description": "Bond-building treatment to repair damaged hair.", "defaultDuration": 45, "defaultPrice": 40000},
+      {"name": "Scalp Treatment", "description": "Targeted treatment for dry scalp, dandruff, or buildup.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Hair Botox", "description": "Non-chemical treatment for deep repair and shine.", "defaultDuration": 90, "defaultPrice": 80000},
+      {"name": "Hot Oil Treatment", "description": "Nourishing oil massage for healthy scalp and hair.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Protein Treatment", "description": "Strengthen weak, over-processed hair.", "defaultDuration": 45, "defaultPrice": 35000}
+    ]
+  },
+  {
+    "category": "Braiding & Extensions",
+    "icon": "person.crop.circle",
+    "services": [
+      {"name": "Box Braids", "description": "Classic protective style. Price varies by length.", "defaultDuration": 300, "defaultPrice": 80000},
+      {"name": "Cornrows", "description": "Traditional African braiding close to scalp.", "defaultDuration": 120, "defaultPrice": 40000},
+      {"name": "Knotless Braids", "description": "Feed-in technique for natural-looking, lightweight braids.", "defaultDuration": 360, "defaultPrice": 100000},
+      {"name": "Senegalese Twists", "description": "Two-strand twist protective style.", "defaultDuration": 240, "defaultPrice": 70000},
+      {"name": "Faux Locs", "description": "Loc-style without commitment.", "defaultDuration": 360, "defaultPrice": 90000},
+      {"name": "Crochet Braids", "description": "Quick protective style using crochet method.", "defaultDuration": 180, "defaultPrice": 50000},
+      {"name": "Weave Install (Sew-In)", "description": "Full sew-in weave installation.", "defaultDuration": 180, "defaultPrice": 60000},
+      {"name": "Tape-In Extensions", "description": "Semi-permanent tape extensions installation.", "defaultDuration": 120, "defaultPrice": 80000},
+      {"name": "Clip-In Extensions Styling", "description": "Professional clip-in application and styling.", "defaultDuration": 60, "defaultPrice": 30000},
+      {"name": "Wig Install & Styling", "description": "Professional wig installation and customization.", "defaultDuration": 90, "defaultPrice": 45000},
+      {"name": "Loc Maintenance", "description": "Retwist and maintenance for locs.", "defaultDuration": 120, "defaultPrice": 50000},
+      {"name": "Loc Start / Installation", "description": "Begin your loc journey with professional installation.", "defaultDuration": 240, "defaultPrice": 80000}
+    ]
+  },
+  {
+    "category": "Nail Care",
+    "icon": "hand.raised",
+    "services": [
+      {"name": "Classic Manicure", "description": "Nail shaping, cuticle care, hand massage, and polish.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Gel Manicure", "description": "Long-lasting gel polish manicure.", "defaultDuration": 45, "defaultPrice": 25000},
+      {"name": "Shellac Manicure", "description": "Hybrid polish for shine and durability.", "defaultDuration": 45, "defaultPrice": 25000},
+      {"name": "Classic Pedicure", "description": "Foot soak, nail care, exfoliation, massage, and polish.", "defaultDuration": 45, "defaultPrice": 20000},
+      {"name": "Gel Pedicure", "description": "Full pedicure with gel polish.", "defaultDuration": 60, "defaultPrice": 30000},
+      {"name": "Spa Pedicure", "description": "Luxurious pedicure with extra exfoliation and mask.", "defaultDuration": 75, "defaultPrice": 40000},
+      {"name": "Acrylic Full Set", "description": "Full set of acrylic nail extensions.", "defaultDuration": 75, "defaultPrice": 45000},
+      {"name": "Acrylic Fill", "description": "Maintenance fill for existing acrylics.", "defaultDuration": 45, "defaultPrice": 30000},
+      {"name": "Gel-X Full Set", "description": "Soft gel extension system.", "defaultDuration": 75, "defaultPrice": 50000},
+      {"name": "Dip Powder Manicure", "description": "Dip powder application for strong, lasting nails.", "defaultDuration": 60, "defaultPrice": 35000},
+      {"name": "Nail Art (Per Nail)", "description": "Custom nail art designs.", "defaultDuration": 10, "defaultPrice": 3000},
+      {"name": "Full Nail Art Set", "description": "Custom art on all 10 nails.", "defaultDuration": 90, "defaultPrice": 25000},
+      {"name": "Nail Repair", "description": "Fix broken or damaged nails.", "defaultDuration": 15, "defaultPrice": 5000},
+      {"name": "Gel Removal", "description": "Safe removal of gel polish.", "defaultDuration": 20, "defaultPrice": 10000},
+      {"name": "Acrylic Removal", "description": "Safe removal of acrylic nails.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Paraffin Treatment (Hands)", "description": "Warm paraffin wax for soft, moisturized hands.", "defaultDuration": 20, "defaultPrice": 15000},
+      {"name": "Paraffin Treatment (Feet)", "description": "Warm paraffin wax for soft, moisturized feet.", "defaultDuration": 20, "defaultPrice": 15000}
+    ]
+  },
+  {
+    "category": "Skincare & Facials",
+    "icon": "face.smiling",
+    "services": [
+      {"name": "Classic Facial", "description": "Deep cleansing, exfoliation, extraction, and hydrating mask.", "defaultDuration": 60, "defaultPrice": 40000},
+      {"name": "Express Facial", "description": "Quick refresh for busy schedules.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Anti-Aging Facial", "description": "Target fine lines with specialized serums and techniques.", "defaultDuration": 75, "defaultPrice": 60000},
+      {"name": "Acne Treatment Facial", "description": "Deep cleansing and treatment for acne-prone skin.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Hydrating Facial", "description": "Intense moisture boost for dry skin.", "defaultDuration": 60, "defaultPrice": 45000},
+      {"name": "Brightening Facial", "description": "Target dark spots and uneven skin tone.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Microdermabrasion", "description": "Exfoliate and renew skin texture.", "defaultDuration": 45, "defaultPrice": 55000},
+      {"name": "Chemical Peel (Light)", "description": "Gentle peel for refreshed skin.", "defaultDuration": 30, "defaultPrice": 40000},
+      {"name": "Chemical Peel (Medium)", "description": "Deeper peel for more dramatic results.", "defaultDuration": 45, "defaultPrice": 60000},
+      {"name": "LED Light Therapy", "description": "Phototherapy for various skin concerns.", "defaultDuration": 30, "defaultPrice": 35000},
+      {"name": "Dermaplaning", "description": "Remove peach fuzz and dead skin cells.", "defaultDuration": 45, "defaultPrice": 45000},
+      {"name": "Oxygen Facial", "description": "Infuse skin with pure oxygen and serums.", "defaultDuration": 60, "defaultPrice": 70000},
+      {"name": "HydraFacial", "description": "Multi-step treatment for deep cleansing and hydration.", "defaultDuration": 60, "defaultPrice": 80000},
+      {"name": "Facial Add-On: Eye Treatment", "description": "Target puffiness and dark circles.", "defaultDuration": 15, "defaultPrice": 15000},
+      {"name": "Facial Add-On: Lip Treatment", "description": "Hydrate and plump lips.", "defaultDuration": 10, "defaultPrice": 10000}
+    ]
+  },
+  {
+    "category": "Massage Therapy",
+    "icon": "heart.circle",
+    "services": [
+      {"name": "Swedish Massage (60 min)", "description": "Relaxing full-body massage with light to medium pressure.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Swedish Massage (90 min)", "description": "Extended relaxation massage.", "defaultDuration": 90, "defaultPrice": 70000},
+      {"name": "Deep Tissue Massage (60 min)", "description": "Focused pressure on deep muscle layers.", "defaultDuration": 60, "defaultPrice": 60000},
+      {"name": "Deep Tissue Massage (90 min)", "description": "Extended deep tissue work.", "defaultDuration": 90, "defaultPrice": 85000},
+      {"name": "Hot Stone Massage", "description": "Heated stones ease tension and improve circulation.", "defaultDuration": 75, "defaultPrice": 75000},
+      {"name": "Aromatherapy Massage", "description": "Essential oils enhance relaxation.", "defaultDuration": 60, "defaultPrice": 55000},
+      {"name": "Sports Massage", "description": "Targeted treatment for athletes.", "defaultDuration": 60, "defaultPrice": 65000},
+      {"name": "Prenatal Massage", "description": "Safe, gentle massage for expecting mothers.", "defaultDuration": 60, "defaultPrice": 55000},
+      {"name": "Couples Massage", "description": "Side-by-side massage experience.", "defaultDuration": 60, "defaultPrice": 100000},
+      {"name": "Thai Massage", "description": "Traditional stretching and pressure point therapy.", "defaultDuration": 90, "defaultPrice": 70000},
+      {"name": "Reflexology", "description": "Pressure point therapy on feet.", "defaultDuration": 45, "defaultPrice": 40000},
+      {"name": "Back, Neck & Shoulders", "description": "Focused massage on upper body tension areas.", "defaultDuration": 30, "defaultPrice": 35000},
+      {"name": "Scalp Massage", "description": "Relaxing massage to relieve tension headaches.", "defaultDuration": 20, "defaultPrice": 20000},
+      {"name": "Lymphatic Drainage Massage", "description": "Gentle massage to support lymph system.", "defaultDuration": 60, "defaultPrice": 60000},
+      {"name": "Cupping Therapy", "description": "Traditional cupping for muscle relief.", "defaultDuration": 45, "defaultPrice": 45000}
+    ]
+  },
+  {
+    "category": "Body Treatments",
+    "icon": "figure.stand",
+    "services": [
+      {"name": "Body Scrub", "description": "Full-body exfoliation for smooth skin.", "defaultDuration": 45, "defaultPrice": 50000},
+      {"name": "Body Wrap", "description": "Detoxifying or hydrating wrap treatment.", "defaultDuration": 60, "defaultPrice": 60000},
+      {"name": "Cellulite Treatment", "description": "Targeted treatment to reduce cellulite appearance.", "defaultDuration": 45, "defaultPrice": 55000},
+      {"name": "Back Facial", "description": "Cleansing and treatment for back skin.", "defaultDuration": 45, "defaultPrice": 45000},
+      {"name": "Spray Tan", "description": "Custom airbrush tan application.", "defaultDuration": 30, "defaultPrice": 40000},
+      {"name": "Body Contouring", "description": "Non-invasive body sculpting treatment.", "defaultDuration": 60, "defaultPrice": 80000}
+    ]
+  },
+  {
+    "category": "Hair Removal",
+    "icon": "wand.and.stars",
+    "services": [
+      {"name": "Eyebrow Wax", "description": "Shape and define eyebrows.", "defaultDuration": 15, "defaultPrice": 8000},
+      {"name": "Eyebrow Thread", "description": "Precise threading for clean brows.", "defaultDuration": 15, "defaultPrice": 8000},
+      {"name": "Lip Wax", "description": "Upper lip hair removal.", "defaultDuration": 10, "defaultPrice": 5000},
+      {"name": "Chin Wax", "description": "Chin hair removal.", "defaultDuration": 10, "defaultPrice": 5000},
+      {"name": "Full Face Wax", "description": "Complete facial hair removal.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Underarm Wax", "description": "Armpit hair removal.", "defaultDuration": 15, "defaultPrice": 12000},
+      {"name": "Half Arm Wax", "description": "Forearm hair removal.", "defaultDuration": 20, "defaultPrice": 15000},
+      {"name": "Full Arm Wax", "description": "Complete arm hair removal.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Half Leg Wax", "description": "Lower leg hair removal.", "defaultDuration": 30, "defaultPrice": 20000},
+      {"name": "Full Leg Wax", "description": "Complete leg hair removal.", "defaultDuration": 45, "defaultPrice": 35000},
+      {"name": "Bikini Wax", "description": "Hair removal along bikini line.", "defaultDuration": 20, "defaultPrice": 20000},
+      {"name": "Brazilian Wax", "description": "Complete bikini area hair removal.", "defaultDuration": 30, "defaultPrice": 35000},
+      {"name": "Full Body Wax", "description": "Complete body hair removal package.", "defaultDuration": 120, "defaultPrice": 100000},
+      {"name": "Men's Back Wax", "description": "Full back hair removal.", "defaultDuration": 30, "defaultPrice": 30000},
+      {"name": "Men's Chest Wax", "description": "Full chest hair removal.", "defaultDuration": 30, "defaultPrice": 30000},
+      {"name": "Laser Hair Removal (Small Area)", "description": "Permanent reduction for small areas.", "defaultDuration": 15, "defaultPrice": 50000},
+      {"name": "Laser Hair Removal (Medium Area)", "description": "Permanent reduction for medium areas.", "defaultDuration": 30, "defaultPrice": 80000},
+      {"name": "Laser Hair Removal (Large Area)", "description": "Permanent reduction for large areas.", "defaultDuration": 45, "defaultPrice": 120000}
+    ]
+  },
+  {
+    "category": "Makeup & Beauty",
+    "icon": "paintpalette",
+    "services": [
+      {"name": "Natural/Everyday Makeup", "description": "Subtle, polished look for daily wear.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Full Glam Makeup", "description": "Dramatic makeup for special occasions.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Bridal Makeup", "description": "Wedding day makeup with trial included.", "defaultDuration": 90, "defaultPrice": 80000},
+      {"name": "Bridal Party Makeup", "description": "Makeup for bridesmaids (per person).", "defaultDuration": 45, "defaultPrice": 40000},
+      {"name": "Editorial/Photoshoot Makeup", "description": "Camera-ready makeup for shoots.", "defaultDuration": 60, "defaultPrice": 60000},
+      {"name": "Makeup Lesson", "description": "Learn techniques tailored to your face.", "defaultDuration": 90, "defaultPrice": 70000},
+      {"name": "Strip Lash Application", "description": "Application of strip false lashes.", "defaultDuration": 15, "defaultPrice": 10000}
+    ]
+  },
+  {
+    "category": "Lashes & Brows",
+    "icon": "eye",
+    "services": [
+      {"name": "Lash Lift", "description": "Semi-permanent curl for natural lashes.", "defaultDuration": 60, "defaultPrice": 45000},
+      {"name": "Lash Tint", "description": "Darken natural lashes.", "defaultDuration": 20, "defaultPrice": 15000},
+      {"name": "Lash Lift & Tint Combo", "description": "Lift and tint together.", "defaultDuration": 75, "defaultPrice": 55000},
+      {"name": "Classic Lash Extensions (Full Set)", "description": "One extension per natural lash.", "defaultDuration": 120, "defaultPrice": 80000},
+      {"name": "Volume Lash Extensions (Full Set)", "description": "Multiple lightweight extensions per lash.", "defaultDuration": 150, "defaultPrice": 100000},
+      {"name": "Hybrid Lash Extensions (Full Set)", "description": "Mix of classic and volume.", "defaultDuration": 135, "defaultPrice": 90000},
+      {"name": "Lash Extension Fill (2-Week)", "description": "Maintenance fill.", "defaultDuration": 60, "defaultPrice": 45000},
+      {"name": "Lash Extension Fill (3-Week)", "description": "Extended fill appointment.", "defaultDuration": 75, "defaultPrice": 55000},
+      {"name": "Lash Extension Removal", "description": "Safe professional removal.", "defaultDuration": 30, "defaultPrice": 20000},
+      {"name": "Brow Lamination", "description": "Semi-permanent brow styling.", "defaultDuration": 45, "defaultPrice": 40000},
+      {"name": "Brow Tint", "description": "Color enhancement for brows.", "defaultDuration": 15, "defaultPrice": 12000},
+      {"name": "Brow Lamination & Tint", "description": "Lamination with tint combo.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Henna Brows", "description": "Natural dye for longer-lasting color.", "defaultDuration": 45, "defaultPrice": 35000},
+      {"name": "Microblading", "description": "Semi-permanent brow tattoo.", "defaultDuration": 150, "defaultPrice": 200000},
+      {"name": "Microblading Touch-Up", "description": "6-8 week touch-up appointment.", "defaultDuration": 90, "defaultPrice": 80000},
+      {"name": "Powder Brows", "description": "Soft, powdered brow tattoo look.", "defaultDuration": 150, "defaultPrice": 180000},
+      {"name": "Brow Shaping (Wax & Tweeze)", "description": "Comprehensive brow grooming.", "defaultDuration": 20, "defaultPrice": 15000}
+    ]
+  },
+  {
+    "category": "Men's Grooming",
+    "icon": "person",
+    "services": [
+      {"name": "Men's Haircut & Style", "description": "Precision cut with styling.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Buzz Cut", "description": "All-over clipper cut.", "defaultDuration": 20, "defaultPrice": 10000},
+      {"name": "Fade Haircut", "description": "Gradual taper on sides and back.", "defaultDuration": 35, "defaultPrice": 18000},
+      {"name": "Beard Trim", "description": "Shape and maintain facial hair.", "defaultDuration": 20, "defaultPrice": 10000},
+      {"name": "Beard Design", "description": "Detailed beard shaping and styling.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Hot Towel Shave", "description": "Traditional straight razor shave.", "defaultDuration": 30, "defaultPrice": 20000},
+      {"name": "Haircut & Beard Combo", "description": "Complete grooming package.", "defaultDuration": 45, "defaultPrice": 25000},
+      {"name": "Scalp Treatment for Men", "description": "Address hair loss and scalp health.", "defaultDuration": 30, "defaultPrice": 25000},
+      {"name": "Men's Facial", "description": "Deep cleansing tailored for men's skin.", "defaultDuration": 45, "defaultPrice": 35000},
+      {"name": "Brow Grooming (Men)", "description": "Clean up brows without feminizing.", "defaultDuration": 15, "defaultPrice": 8000},
+      {"name": "Ear & Nose Hair Trim", "description": "Quick cleanup of unwanted hair.", "defaultDuration": 10, "defaultPrice": 5000},
+      {"name": "Gray Blending", "description": "Subtle color to reduce gray.", "defaultDuration": 30, "defaultPrice": 25000}
+    ]
+  },
+  {
+    "category": "Spa Packages",
+    "icon": "sparkle",
+    "services": [
+      {"name": "Mini Spa Package", "description": "30-min massage + express facial.", "defaultDuration": 60, "defaultPrice": 60000},
+      {"name": "Relaxation Package", "description": "60-min massage + classic facial.", "defaultDuration": 120, "defaultPrice": 85000},
+      {"name": "Pamper Package", "description": "90-min massage + facial + mani-pedi.", "defaultDuration": 210, "defaultPrice": 140000},
+      {"name": "Bridal Spa Package", "description": "Complete pre-wedding spa experience.", "defaultDuration": 240, "defaultPrice": 200000},
+      {"name": "Couples Spa Package", "description": "Side-by-side massage + facials.", "defaultDuration": 150, "defaultPrice": 180000},
+      {"name": "Gentleman's Package", "description": "Haircut + facial + massage.", "defaultDuration": 120, "defaultPrice": 90000},
+      {"name": "Birthday Package", "description": "Celebrate with full spa treatment.", "defaultDuration": 180, "defaultPrice": 150000},
+      {"name": "Detox Package", "description": "Body wrap + massage + facial.", "defaultDuration": 150, "defaultPrice": 130000}
+    ]
+  },
+  {
+    "category": "Tattoo & Piercing",
+    "icon": "pencil.tip",
+    "services": [
+      {"name": "Small Tattoo (< 2 inches)", "description": "Simple design, small area.", "defaultDuration": 60, "defaultPrice": 50000},
+      {"name": "Medium Tattoo (2-4 inches)", "description": "Moderate detail and size.", "defaultDuration": 120, "defaultPrice": 100000},
+      {"name": "Large Tattoo (4-6 inches)", "description": "Detailed work, larger area.", "defaultDuration": 180, "defaultPrice": 180000},
+      {"name": "Tattoo Touch-Up", "description": "Refresh existing tattoo.", "defaultDuration": 60, "defaultPrice": 40000},
+      {"name": "Tattoo Cover-Up (Consultation)", "description": "Design consultation for cover-ups.", "defaultDuration": 30, "defaultPrice": 0},
+      {"name": "Ear Lobe Piercing", "description": "Standard ear piercing.", "defaultDuration": 15, "defaultPrice": 15000},
+      {"name": "Cartilage Piercing", "description": "Helix, tragus, or similar.", "defaultDuration": 20, "defaultPrice": 25000},
+      {"name": "Nose Piercing", "description": "Nostril or septum.", "defaultDuration": 20, "defaultPrice": 25000},
+      {"name": "Belly Button Piercing", "description": "Naval piercing.", "defaultDuration": 20, "defaultPrice": 30000},
+      {"name": "Lip Piercing", "description": "Various lip placements.", "defaultDuration": 20, "defaultPrice": 30000}
+    ]
+  },
+  {
+    "category": "Medical Aesthetics",
+    "icon": "cross.circle",
+    "services": [
+      {"name": "Botox (Per Unit)", "description": "Wrinkle-relaxing injection.", "defaultDuration": 30, "defaultPrice": 15000},
+      {"name": "Dermal Fillers (Per Syringe)", "description": "Volume restoration and contouring.", "defaultDuration": 45, "defaultPrice": 300000},
+      {"name": "Lip Fillers", "description": "Lip enhancement treatment.", "defaultDuration": 45, "defaultPrice": 250000},
+      {"name": "PRP Facial (Vampire Facial)", "description": "Platelet-rich plasma skin rejuvenation.", "defaultDuration": 60, "defaultPrice": 200000},
+      {"name": "Microneedling", "description": "Collagen-inducing therapy.", "defaultDuration": 60, "defaultPrice": 100000},
+      {"name": "IV Vitamin Therapy", "description": "Nutrient infusion for wellness.", "defaultDuration": 45, "defaultPrice": 120000},
+      {"name": "Kybella (Double Chin)", "description": "Fat-dissolving injection.", "defaultDuration": 30, "defaultPrice": 250000},
+      {"name": "Chemical Peel (Medical Grade)", "description": "Professional-strength peel.", "defaultDuration": 45, "defaultPrice": 80000}
+    ]
+  }
+]

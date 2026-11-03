@@ -1,0 +1,19 @@
+/* AdminTheme tone helpers (port of admin_ui.dart AdminTheme.toneBase/toneInk/toneTint).
+   A tone sets --a-base, --a-ink-l, --a-ink-d on the element; these classes read them. */
+.a-ink { color: var(--a-ink-l); }
+.dark .a-ink { color: var(--a-ink-d); }
+.a-tint { background-color: color-mix(in srgb, var(--a-base) 12%, transparent); }
+.dark .a-tint { background-color: color-mix(in srgb, var(--a-base) 20%, transparent); }
+.a-tint-14 { background-color: color-mix(in srgb, var(--a-base) 14%, transparent); }
+.a-tint-16 { background-color: color-mix(in srgb, var(--a-base) 16%, transparent); }
+.a-tint-10 { background-color: color-mix(in srgb, var(--a-base) 10%, transparent); }
+.a-surface { background-color: color-mix(in srgb, var(--a-base) 10%, rgb(var(--card))); }
+.a-border { border-color: var(--a-base); }
+.a-border-soft { border-color: color-mix(in srgb, var(--a-base) 60%, transparent); }
+.a-border-45 { border-color: color-mix(in srgb, var(--a-base) 45%, transparent); }
+.a-bg-base { background-color: var(--a-base); }
+.a-fill { background-color: var(--a-fill-l); color: var(--a-fg-l); }
+.dark .a-fill { background-color: var(--a-fill-d); color: var(--a-fg-d); }
+.a-fill:disabled { background-color: rgb(var(--ink) / 0.12); color: rgb(var(--ink) / 0.38); }
+.a-scroll-x { scrollbar-width: none; }
+.a-scroll-x::-webkit-scrollbar { display: none; }

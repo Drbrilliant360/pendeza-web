@@ -1,0 +1,142 @@
+[
+  {
+    "serviceId": "svc_001_01",
+    "salonId": "salon_001",
+    "name": "Men's Haircut",
+    "description": "Classic men's haircut and style.",
+    "price": 15000,
+    "durationMinutes": 30,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_001_02",
+    "salonId": "salon_001",
+    "name": "Beard Trim",
+    "description": "Shape and trim for your beard.",
+    "price": 8000,
+    "durationMinutes": 15,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_001_03",
+    "salonId": "salon_001",
+    "name": "Hot Towel Shave",
+    "description": "Classic hot towel shave experience.",
+    "price": 12000,
+    "durationMinutes": 25,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_002_01",
+    "salonId": "salon_002",
+    "name": "Men's Haircut",
+    "description": "Standard haircut and styling.",
+    "price": 10000,
+    "durationMinutes": 30,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_002_02",
+    "salonId": "salon_002",
+    "name": "Swedish Massage (60 min)",
+    "description": "Relaxing full-body massage.",
+    "price": 50000,
+    "durationMinutes": 60,
+    "category": "Massage Therapy",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_002_03",
+    "salonId": "salon_002",
+    "name": "Classic Pedicure",
+    "description": "Foot soak, nail care, exfoliation, and massage.",
+    "price": 25000,
+    "durationMinutes": 45,
+    "category": "Nail Care",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_003_01",
+    "salonId": "salon_003",
+    "name": "Men's Haircut & Wash",
+    "description": "Includes wash, cut, and style.",
+    "price": 18000,
+    "durationMinutes": 40,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_003_02",
+    "salonId": "salon_003",
+    "name": "Deep Tissue Massage (60 min)",
+    "description": "Targets deeper muscle layers.",
+    "price": 60000,
+    "durationMinutes": 60,
+    "category": "Massage Therapy",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_003_03",
+    "salonId": "salon_003",
+    "name": "Classic European Facial",
+    "description": "Deep cleansing facial with mask.",
+    "price": 40000,
+    "durationMinutes": 50,
+    "category": "Skincare & Facials",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_004_01",
+    "salonId": "salon_004",
+    "name": "Men's Haircut",
+    "description": "Precision haircut and styling.",
+    "price": 12000,
+    "durationMinutes": 30,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_004_02",
+    "salonId": "salon_004",
+    "name": "Head Shave",
+    "description": "Clean head shave.",
+    "price": 10000,
+    "durationMinutes": 20,
+    "category": "Hair Services",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_005_01",
+    "salonId": "salon_005",
+    "name": "Swedish Massage (90 min)",
+    "description": "Extended relaxation massage.",
+    "price": 70000,
+    "durationMinutes": 90,
+    "category": "Massage Therapy",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_005_02",
+    "salonId": "salon_005",
+    "name": "Hot Stone Massage (60 min)",
+    "description": "Massage using heated stones.",
+    "price": 65000,
+    "durationMinutes": 60,
+    "category": "Massage Therapy",
+    "isActive": true
+  },
+  {
+    "serviceId": "svc_005_03",
+    "salonId": "salon_005",
+    "name": "Aromatherapy Massage (60 min)",
+    "description": "Gentle massage with essential oils.",
+    "price": 60000,
+    "durationMinutes": 60,
+    "category": "Massage Therapy",
+    "isActive": true
+  }
+]
